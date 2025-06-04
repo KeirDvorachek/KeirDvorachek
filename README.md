@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KeirDvorachek
-- 🌱 I’m currently learning Unity, Azure Data Tools, and tstudying for my CompTIA Sec+
+- 🌱 I’m currently learning.
 - 📫 How to reach me, https://www.linkedin.com/in/keirdvorachek
 
 <!---
